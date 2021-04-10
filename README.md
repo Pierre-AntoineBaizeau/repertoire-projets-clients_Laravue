@@ -1,3 +1,49 @@
+# repertoire-projets-clients_Laravue Pierre-Antoine Baizeau
+<img src="" width="500">
+
+Bienvenue sur un projet réalisé en __Laravel et Vue.JS__, il permet de :
+
+### Voir ses projets
+
+Sur cette page il est possible de voir ses projets avec le titre, la description et le client. le ticket est le statuts de celui-ci (0 pas fais, 1 en cours, 2 fini).
+
+<img src="https://user-images.githubusercontent.com/70761069/114275690-b8ce6900-9a23-11eb-9f38-297587bed04d.png" width="500">
+
+
+### Créer un projet
+
+<img src="https://user-images.githubusercontent.com/70761069/114275810-3c885580-9a24-11eb-8010-68a88ff76830.png" width="500">
+
+
+### Editer un projet
+
+Vous retrouverez les anciennes information et pourrez supprimer le projet
+
+<img src="https://user-images.githubusercontent.com/70761069/114275918-9ee15600-9a24-11eb-8f87-273d33815a7a.png" width="500">
+
+
+### Voir les clients
+
+
+<img src="https://user-images.githubusercontent.com/70761069/114275954-c7695000-9a24-11eb-8d5a-94a0b0dd89a5.png" width="500">
+
+
+### Créer un client
+
+<img src="https://user-images.githubusercontent.com/70761069/114276000-11523600-9a25-11eb-99e2-19fc9a38bca9.png" width="500">
+
+
+
+### Editer un client
+
+Vous retrouverez les anciennes information et pourrez supprimer le client
+
+<img src="https://user-images.githubusercontent.com/70761069/114276025-262ec980-9a25-11eb-8b69-339bc193a4de.png" width="500">
+
+
+----------------
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
